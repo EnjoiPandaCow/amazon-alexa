@@ -1,0 +1,24 @@
+{
+	"intents" : [ {
+		"intent": "CarIntent",
+		"slots" [
+			{
+				"name": "Car",
+				"type": "LIST_OF_CARS"
+			}
+		]
+	}, {
+		"intent": "AMAZON.YesIntent"
+	}, {
+		"intent": "AMAZON.NoIntent"
+	}, {
+		"intent": "AMAZON.Help"
+	}, {
+		"intent": "AMAZON.Stop"
+	}, {
+		"intent": "AMAZON.CancelIntent"
+	}
+
+	]
+
+}
