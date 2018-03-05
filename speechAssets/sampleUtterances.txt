@@ -1,0 +1,7 @@
+CarIntent {Car}
+CarIntent Tell me about {Car}
+CarIntent Talk about {Car}
+CarIntent Tell me some facts about {Car}
+AMAZON.HelpIntent Tell me those car names again 
+AMAZON.HelpIntent Tell me the car names 
+AMAZON.HelpIntent What are the car names again
